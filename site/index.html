@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#7167c9">
+  <meta name="description" content="缇娅 Tiya 的点歌台：搜索歌名、歌手或风格，一键复制点歌。">
+  <title>缇娅的点歌台</title>
+  <link rel="icon" href="assets/avatar.jpg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="sky" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="回到顶部">
+      <img src="assets/avatar.jpg" alt="缇娅头像">
+      <span><strong>缇娅的点歌台</strong><small>TIYA SONG REQUEST</small></span>
+    </a>
+    <nav aria-label="主导航">
+      <button class="nav-btn active" data-view="songs">点歌</button>
+      <button class="nav-btn" data-view="queue">学歌排队</button>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section id="songs-view" class="view active" aria-labelledby="songs-title">
+      <div class="hero-card">
+        <div class="hero-copy">
+          <p class="eyebrow">NOW SINGING FOR YOU</p>
+          <h1 id="songs-title">今天想听缇娅唱什么？</h1>
+          <p>搜歌名、歌手或风格，找到后点一下就能复制点歌。</p>
+          <div class="search-wrap">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="search" type="search" placeholder="搜索歌名、歌手、风格…" autocomplete="off">
+            <button id="clear-search" class="clear-btn" aria-label="清空搜索" hidden>×</button>
+          </div>
+        </div>
+        <img class="hero-mascot" src="assets/icecream.png" alt="缇娅冰淇淋形象">
+      </div>
+
+      <div class="filters" aria-label="歌单筛选">
+        <div class="filter-group" id="language-filters"></div>
+        <button id="random-song" class="surprise-btn">✦ 随机来一首</button>
+      </div>
+      <div class="style-row" id="style-filters" aria-label="风格筛选"></div>
+
+      <div class="result-head">
+        <div><strong id="result-count">0</strong><span> 首可以点</span></div>
+        <button id="reset-filters" class="text-btn" hidden>清除筛选</button>
+      </div>
+      <div id="song-list" class="song-grid" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <span>☁</span><h2>暂时没找到这首歌</h2><p>换个关键词，或试试其他风格吧。</p>
+      </div>
+      <button id="load-more" class="load-more" hidden>再看一些</button>
+    </section>
+
+    <section id="queue-view" class="view" aria-labelledby="queue-title" hidden>
+      <div class="queue-hero">
+        <div>
+          <p class="eyebrow">LEARNING QUEUE</p>
+          <h1 id="queue-title">缇娅的学歌进度</h1>
+          <p>想知道学到哪首了？这里按顺序持续更新。</p>
+        </div>
+        <div class="queue-stats">
+          <div><strong id="queued-count">0</strong><span>排队中</span></div>
+          <div><strong id="learned-count">0</strong><span>已学会</span></div>
+        </div>
+      </div>
+      <div class="queue-tabs" role="tablist">
+        <button class="queue-tab active" data-status="queued" role="tab">排队中</button>
+        <button class="queue-tab" data-status="learned" role="tab">已学会</button>
+      </div>
+      <div id="queue-list" class="queue-list"></div>
+      <p class="updated">歌单更新于 <span id="updated-date"></span></p>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite">已复制点歌内容</div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
