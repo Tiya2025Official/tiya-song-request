@@ -6,9 +6,9 @@
   const normalize = (value) => String(value || "").toLocaleLowerCase().replace(/[\s·'’“”"，,。.！!？?（）()\-—_]/g, "");
 
   const languages = ["全部", ...new Set(data.songs.map(song => song.language))];
-  const preferredStyles = ["热门必点", "元气", "治愈", "炸场", "伤感", "摇滚", "古风", "民谣", "说唱", "电音", "暗黑", "复古", "影视", "二游/电子", "二游", "K-POP", "J-POP", "歌手专属", "经典", "流行"];
+  const preferredStyles = ["热门必点", "元气", "治愈", "炸场", "伤感", "摇滚", "古风", "民谣", "说唱", "电音", "暗黑", "复古", "影视", "二游", "K-POP", "J-POP", "歌手专属", "经典", "流行"];
   const available = new Set(data.songs.map(song => song.style));
-  const styles = ["全部", ...preferredStyles.filter(style => available.has(style))];
+  const styles = ["全部", ...preferredStyles.filter(style => available.has(style)), ...[...available].filter(style => !preferredStyles.includes(style))];
 
   function makePill(label, type, active) {
     const button = document.createElement("button");

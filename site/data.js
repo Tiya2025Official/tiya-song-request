@@ -441,2587 +441,2587 @@ window.TIYA_DATA = {
     },
     {
       "title": "阿拉斯加海湾",
-      "artist": "",
+      "artist": "蓝心羽",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "斑马，斑马",
-      "artist": "",
+      "artist": "宋冬野",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "宝贝",
-      "artist": "",
+      "artist": "张悬",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "北京东路的日子",
-      "artist": "",
+      "artist": "汪源等南京外国语学校学生",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "别找我麻烦",
-      "artist": "",
+      "artist": "蔡健雅",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "不负人间",
-      "artist": "",
+      "artist": "阿YueYue",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "成都",
-      "artist": "",
+      "artist": "赵雷",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "达尔文",
-      "artist": "",
+      "artist": "蔡健雅",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "但求疼",
-      "artist": "",
+      "artist": "谭维维",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "到不了",
-      "artist": "",
+      "artist": "范玮琪",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "堕",
-      "artist": "",
+      "artist": "Zyboy忠宇",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "孤独颂歌",
-      "artist": "",
+      "artist": "陈文非",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "红色高跟鞋",
-      "artist": "",
+      "artist": "蔡健雅",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "后来",
-      "artist": "",
+      "artist": "刘若英",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "化身孤岛的鲸",
-      "artist": "",
+      "artist": "不才",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "画心",
-      "artist": "",
+      "artist": "张靓颖",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "戒烟",
-      "artist": "",
+      "artist": "李荣浩",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "就让这大雨全都落下",
-      "artist": "",
+      "artist": "容祖儿",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "可惜不是你",
-      "artist": "",
+      "artist": "梁静茹",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "李白",
-      "artist": "",
+      "artist": "李荣浩",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "恋人",
-      "artist": "",
+      "artist": "李荣浩",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "慢慢喜欢你",
-      "artist": "",
+      "artist": "莫文蔚",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "免我蹉跎苦",
-      "artist": "",
+      "artist": "黄龄",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "漠河舞厅",
-      "artist": "",
+      "artist": "柳爽",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "暮色回响",
-      "artist": "",
+      "artist": "吉星出租",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "那些花儿",
-      "artist": "",
+      "artist": "朴树",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "那些年",
-      "artist": "",
+      "artist": "胡夏",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "你是我的眼",
-      "artist": "",
+      "artist": "萧煌奇",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "篇章",
-      "artist": "",
+      "artist": "张韶涵 / 王赫野",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "凄美地",
-      "artist": "",
+      "artist": "郭顶",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "亲密爱人",
-      "artist": "",
+      "artist": "梅艳芳",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "清明雨上",
-      "artist": "",
+      "artist": "许嵩",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "人是_",
-      "artist": "",
+      "artist": "周深",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "人世间",
-      "artist": "",
+      "artist": "雷佳",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "三寸天堂",
-      "artist": "",
+      "artist": "严艺丹",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "深蓝",
-      "artist": "",
+      "artist": "陈婧霏",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "身骑白马",
-      "artist": "",
+      "artist": "徐佳莹",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "水星记",
-      "artist": "",
+      "artist": "郭顶",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "说散就散",
-      "artist": "",
+      "artist": "陈泳彤 JC",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "溯",
-      "artist": "",
+      "artist": "CORSAK胡梦周 / 马吟吟",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "体面",
-      "artist": "",
+      "artist": "于文文",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "天黑黑",
-      "artist": "",
+      "artist": "孙燕姿",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "听海",
-      "artist": "",
+      "artist": "张惠妹",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "同花顺",
-      "artist": "",
+      "artist": "林倛玉",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "吻别",
-      "artist": "",
+      "artist": "张学友",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "我们俩",
-      "artist": "",
+      "artist": "郭顶",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "我要你",
-      "artist": "",
+      "artist": "任素汐",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "下潜",
-      "artist": "",
+      "artist": "川青 / Morerare",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "夏天的风",
-      "artist": "",
+      "artist": "温岚",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "下雨天",
-      "artist": "",
+      "artist": "南拳妈妈",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "小美满",
-      "artist": "",
+      "artist": "周深",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "小幸运",
-      "artist": "",
+      "artist": "田馥甄",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "想见你想见你想见你",
-      "artist": "",
+      "artist": "八三夭",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "像鱼",
-      "artist": "",
+      "artist": "王贰浪",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "心之火",
-      "artist": "",
+      "artist": "F.I.R. / 彭佳慧",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "星尘",
-      "artist": "",
+      "artist": "周昭妍Miumiu / 有机胡萝卜合唱团",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "洋葱",
-      "artist": "",
+      "artist": "杨宗纬",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "野心家",
-      "artist": "",
+      "artist": "张靓颖",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "一吻天荒",
-      "artist": "",
+      "artist": "胡歌",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "隐形的翅膀",
-      "artist": "",
+      "artist": "张韶涵",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "雨爱",
-      "artist": "",
+      "artist": "杨丞琳",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "愈合",
-      "artist": "",
+      "artist": "告五人",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "遇见",
-      "artist": "",
+      "artist": "孙燕姿",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "云烟成雨",
-      "artist": "",
+      "artist": "房东的猫",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "在加纳共和国离婚",
-      "artist": "",
+      "artist": "菲道尔 / DIOR大颖",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "再见深海",
-      "artist": "",
+      "artist": "唐汉霄",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "这世界那么多人",
-      "artist": "",
+      "artist": "莫文蔚",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "珠玉",
-      "artist": "",
+      "artist": "单依纯",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "最初的梦想",
-      "artist": "",
+      "artist": "范玮琪",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "失眠",
-      "artist": "",
+      "artist": "Suki刘舒妤",
       "style": "流行",
       "language": "中文"
     },
     {
-      "title": "我的美丽 黄绮珊",
-      "artist": "",
+      "title": "我的美丽",
+      "artist": "黄绮珊",
       "style": "流行",
       "language": "中文"
     },
     {
       "title": "爱的供养",
-      "artist": "",
+      "artist": "杨幂",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "第一天",
-      "artist": "",
+      "artist": "孙燕姿",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "坏女孩",
-      "artist": "",
+      "artist": "徐良 / 小凌",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "你的微笑",
-      "artist": "",
+      "artist": "F.I.R.",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "普通朋友",
-      "artist": "",
+      "artist": "陶喆",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "气球",
-      "artist": "",
+      "artist": "许哲珮",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "情非得已",
-      "artist": "",
+      "artist": "庾澄庆",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "套马杆",
-      "artist": "",
+      "artist": "乌兰托娅",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "童年",
-      "artist": "",
+      "artist": "罗大佑",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "同桌的你",
-      "artist": "",
+      "artist": "老狼",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "我在那一角落患过伤风",
-      "artist": "",
+      "artist": "冯曦妤",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "想把我唱给你听",
-      "artist": "",
+      "artist": "老狼 / 王婧 / 小柯 / 曹方",
       "style": "经典",
       "language": "中文"
     },
     {
       "title": "爱你",
-      "artist": "",
+      "artist": "王心凌",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "爱人错过",
-      "artist": "",
+      "artist": "告五人",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "巴啦啦小魔仙",
-      "artist": "",
+      "artist": "大小Ann",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "彩虹的微笑",
-      "artist": "",
+      "artist": "王心凌",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "宠爱",
-      "artist": "",
+      "artist": "TFBOYS",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "宠坏",
-      "artist": "",
+      "artist": "李俊佑 / 小潘潘",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "凑热闹",
-      "artist": "",
+      "artist": "BY2",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "打火机",
-      "artist": "",
+      "artist": "Penny",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "带我去找夜生活",
-      "artist": "",
+      "artist": "告五人",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "东京不太热",
-      "artist": "",
+      "artist": "封茗囧菌",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "东西",
-      "artist": "",
+      "artist": "林俊呈",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "非酋",
-      "artist": "",
+      "artist": "薛明媛 / 朱贺",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "给你一瓶魔法药水",
-      "artist": "",
+      "artist": "告五人",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "给我一个吻",
-      "artist": "",
+      "artist": "张露",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "勾指起誓",
-      "artist": "",
+      "artist": "洛天依 / ilem",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "乖乖",
-      "artist": "",
+      "artist": "T.R.Y",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "红山果",
-      "artist": "",
+      "artist": "安与骑兵",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "99次我爱他",
-      "artist": "",
+      "artist": "元若蓝",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "卡路里",
-      "artist": "",
+      "artist": "火箭少女101",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "快乐星猫",
-      "artist": "",
+      "artist": "牛奶咖啡",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "恋爱告急",
-      "artist": "",
+      "artist": "鞠婧祎",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "喵准",
-      "artist": "",
+      "artist": "邓典（暂定）",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "New Boy",
-      "artist": "",
+      "artist": "朴树",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "热爱105°C的你",
-      "artist": "",
+      "artist": "阿肆",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "热恋冰淇淋",
-      "artist": "",
+      "artist": "yihuik苡慧",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "日不落",
-      "artist": "",
+      "artist": "蔡依林",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "神魂颠倒",
-      "artist": "",
+      "artist": "邓典",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "世界上的另一个我",
-      "artist": "",
+      "artist": "阿肆 / 郭采洁",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "万有引力",
-      "artist": "",
+      "artist": "汪苏泷",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "想和你",
-      "artist": "",
+      "artist": "虞书欣 / 王鹤棣",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "小城夏天",
-      "artist": "",
+      "artist": "LBI利比",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "小情歌",
-      "artist": "",
+      "artist": "苏打绿",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "星光派对",
-      "artist": "",
+      "artist": "赵希予",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "学猫叫",
-      "artist": "",
+      "artist": "小潘潘 / 小峰峰",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "一点点",
-      "artist": "",
+      "artist": "董唧唧 / 芊芊龍",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "123我爱你",
-      "artist": "",
+      "artist": "新乐尘符",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "一笑倾城",
-      "artist": "",
+      "artist": "汪苏泷",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "有点甜",
-      "artist": "",
+      "artist": "汪苏泷 / BY2",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "猪猪侠",
-      "artist": "",
+      "artist": "陈洁丽",
       "style": "元气",
       "language": "中文"
     },
     {
       "title": "壁上观",
-      "artist": "",
+      "artist": "张晓涵 / 一棵小葱",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "赤伶",
-      "artist": "",
+      "artist": "HITA",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "大氿歌",
-      "artist": "",
+      "artist": "洛天依 / ilem",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "典狱司",
-      "artist": "",
+      "artist": "音频怪物",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "关山酒",
-      "artist": "",
+      "artist": "小魂",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "狐言",
-      "artist": "",
+      "artist": "河图 / 洛天依",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "寄明月",
-      "artist": "",
+      "artist": "SING女团",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "锦鲤抄",
-      "artist": "",
+      "artist": "银临 / 云の泣",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "九九八十一",
-      "artist": "",
+      "artist": "乐正绫 / 洛天依",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "离人愁",
-      "artist": "",
+      "artist": "李袁杰",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "明月天涯",
-      "artist": "",
+      "artist": "五音Jw",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "木兰行",
-      "artist": "",
+      "artist": "苍穹",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "牵丝戏",
-      "artist": "",
+      "artist": "银临 / Aki阿杰",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "清明上河图",
-      "artist": "",
+      "artist": "李玉刚",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "权御天下",
-      "artist": "",
+      "artist": "洛天依",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "人间不值得",
-      "artist": "",
+      "artist": "黄诗扶",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "入阵曲",
-      "artist": "",
+      "artist": "五月天",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "三国杀",
-      "artist": "",
+      "artist": "汪苏泷",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "上邪",
-      "artist": "",
+      "artist": "小曲儿",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "神女劈观·唤情",
-      "artist": "",
+      "artist": "杨扬",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "说书人",
-      "artist": "",
+      "artist": "暗杠 / 寅子",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "西厢寻他",
-      "artist": "",
+      "artist": "伯爵Johnny / 唐伯虎Annie",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "下山",
-      "artist": "",
+      "artist": "要不要买菜",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "阴阳先生",
-      "artist": "",
+      "artist": "洛天依 / 言和",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "月光",
-      "artist": "",
+      "artist": "胡彦斌",
       "style": "古风",
       "language": "中文"
     },
     {
-      "title": "伴我 张靓颖",
-      "artist": "",
+      "title": "伴我",
+      "artist": "张靓颖",
       "style": "古风",
       "language": "中文"
     },
     {
       "title": "安和桥",
-      "artist": "",
+      "artist": "宋冬野",
       "style": "民谣",
       "language": "中文"
     },
     {
       "title": "男孩别哭",
-      "artist": "",
+      "artist": "海龟先生",
       "style": "民谣",
       "language": "中文"
     },
     {
       "title": "南山南",
-      "artist": "",
+      "artist": "马頔",
       "style": "民谣",
       "language": "中文"
     },
     {
       "title": "童话镇",
-      "artist": "",
+      "artist": "暗杠",
       "style": "民谣",
       "language": "中文"
     },
     {
       "title": "春暖花开去见你",
-      "artist": "",
+      "artist": "福禄寿FloruitShow",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "花房姑娘",
-      "artist": "",
+      "artist": "崔健",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "极恶都市",
-      "artist": "",
+      "artist": "夏日入侵企画",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "兰若度母",
-      "artist": "",
+      "artist": "福禄寿FloruitShow",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "皮囊",
-      "artist": "",
+      "artist": "萧敬腾",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "人生浪费指南",
-      "artist": "",
+      "artist": "夏日入侵企画",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "嗵嗵",
-      "artist": "",
+      "artist": "DOUDOU",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "我用什么把你留住",
-      "artist": "",
+      "artist": "福禄寿FloruitShow",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "鲜花",
-      "artist": "",
+      "artist": "回春丹",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "想去海边",
-      "artist": "",
+      "artist": "夏日入侵企画",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "心静自然凉",
-      "artist": "",
+      "artist": "福禄寿FloruitShow",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "烟火里的尘埃",
-      "artist": "",
+      "artist": "华晨宇",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "夜空中最亮的星",
-      "artist": "",
+      "artist": "逃跑计划",
       "style": "摇滚",
       "language": "中文"
     },
     {
       "title": "阿司匹林",
-      "artist": "",
+      "artist": "王以太",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "百变酒精",
-      "artist": "",
+      "artist": "法老",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "成仙",
-      "artist": "",
+      "artist": "王朝1982",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "还是会想你",
-      "artist": "",
+      "artist": "林达浪 / h3R3",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "花，太阳，彩虹，你",
-      "artist": "",
+      "artist": "Mai / 法老 / 肯迪仔 / NoLabelCrew",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "粒子们",
-      "artist": "",
+      "artist": "于贞",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "恋是爱的呕吐物",
-      "artist": "",
+      "artist": "小精灵",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "排尾后巷",
-      "artist": "",
+      "artist": "万妮达Vinida Weng",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "麒麟",
-      "artist": "",
+      "artist": "早安",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "上学威龙",
-      "artist": "",
+      "artist": "法老",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "所以你睡了没",
-      "artist": "",
+      "artist": "沙一汀EL",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "天花板之上",
-      "artist": "",
+      "artist": "Spylent",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "晚风",
-      "artist": "",
+      "artist": "7copy / BT07 PZ",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "危险派对",
-      "artist": "",
+      "artist": "王以太 / 刘至佳",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "野狼 Disco",
-      "artist": "",
+      "artist": "宝石Gem",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "早点早点",
-      "artist": "",
+      "artist": "沙一汀EL",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "真没睡",
-      "artist": "",
+      "artist": "姜云升",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "坐忘道",
-      "artist": "",
+      "artist": "王朝1982",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "3977",
-      "artist": "",
+      "artist": "ljz329",
       "style": "说唱",
       "language": "中文"
     },
     {
-      "title": "旋转风暴 - koiko1",
-      "artist": "",
+      "title": "旋转风暴",
+      "artist": "koiko1",
       "style": "说唱",
       "language": "中文"
     },
     {
       "title": "大小姐和大少爷的反派生涯",
       "artist": "",
-      "style": "二游/电子",
+      "style": "二游",
       "language": "中文"
     },
     {
       "title": "普通 Disco",
       "artist": "",
-      "style": "二游/电子",
+      "style": "二游",
       "language": "中文"
     },
     {
       "title": "兔子先生",
       "artist": "",
-      "style": "二游/电子",
+      "style": "二游",
       "language": "中文"
     },
     {
       "title": "无论你多怪异我还是会喜欢你",
       "artist": "",
-      "style": "二游/电子",
+      "style": "二游",
       "language": "中文"
     },
     {
       "title": "霞光",
       "artist": "",
-      "style": "二游/电子",
+      "style": "二游",
       "language": "中文"
     },
     {
       "title": "UP (KARINA Solo)",
-      "artist": "",
+      "artist": "KARINA (aespa)",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Spark (WINTER Solo)",
-      "artist": "",
+      "artist": "WINTER (aespa)",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Whiplash",
-      "artist": "",
+      "artist": "aespa",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Supernova",
-      "artist": "",
+      "artist": "aespa",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "ESCAPE",
-      "artist": "",
+      "artist": "(G)I-DLE",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Nxde",
-      "artist": "",
+      "artist": "(G)I-DLE",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Queencard",
-      "artist": "",
+      "artist": "(G)I-DLE",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "TOMBOY",
-      "artist": "",
+      "artist": "(G)I-DLE",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Catch Catch",
-      "artist": "",
+      "artist": "YENA",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "Golden",
-      "artist": "",
+      "artist": "HUNTR/X / EJAE / Audrey Nuna / REI AMI",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "like JENNIE",
-      "artist": "",
+      "artist": "JENNIE",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "POP/STARS",
-      "artist": "",
+      "artist": "K/DA / Madison Beer / (G)I-DLE / Jaira Burns",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "登神",
-      "artist": "",
+      "artist": "NewJeans",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "JUMP",
-      "artist": "",
+      "artist": "BLACKPINK",
       "style": "K-POP",
       "language": "小语种"
     },
     {
       "title": "单相思",
-      "artist": "",
+      "artist": "Aimer",
       "style": "J-POP",
       "language": "小语种"
     },
     {
       "title": "未闻花名",
-      "artist": "",
+      "artist": "茅野爱衣 / 户松遥 / 早见沙织",
       "style": "J-POP",
       "language": "小语种"
     },
     {
       "title": "世界第一公主殿下",
-      "artist": "",
+      "artist": "初音未来 / ryo (supercell)",
       "style": "J-POP",
       "language": "小语种"
     },
     {
       "title": "相思病",
-      "artist": "",
+      "artist": "Aimer",
       "style": "J-POP",
       "language": "小语种"
     },
     {
       "title": "空想森林",
-      "artist": "",
+      "artist": "IA / じん",
       "style": "J-POP",
       "language": "小语种"
     },
     {
       "title": "怪物",
-      "artist": "",
+      "artist": "YOASOBI",
       "style": "J-POP",
       "language": "小语种"
     },
     {
       "title": "荣耀向我俯首（法语）",
-      "artist": "",
-      "style": "J-POP",
+      "artist": "Côme",
+      "style": "法语",
       "language": "小语种"
     },
     {
       "title": "Despacito（西语）",
-      "artist": "",
-      "style": "J-POP",
+      "artist": "Luis Fonsi / Daddy Yankee",
+      "style": "西语",
       "language": "小语种"
     },
     {
       "title": "万物生（梵语）",
-      "artist": "",
-      "style": "J-POP",
+      "artist": "萨顶顶",
+      "style": "梵语",
       "language": "小语种"
     },
     {
       "title": "Almost Lover",
-      "artist": "",
+      "artist": "A Fine Frenzy",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Baby",
-      "artist": "",
+      "artist": "Justin Bieber",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Beauty And A Beat",
-      "artist": "",
+      "artist": "Justin Bieber",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "City Of Stars",
-      "artist": "",
+      "artist": "Ryan Gosling / Emma Stone",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Dance Monkey",
-      "artist": "",
+      "artist": "Tones and I",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Faded",
-      "artist": "",
+      "artist": "Alan Walker",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Let It Go",
-      "artist": "",
+      "artist": "Idina Menzel",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Love Story",
-      "artist": "",
+      "artist": "Taylor Swift",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Monsters",
-      "artist": "",
+      "artist": "Katie Sky",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Poker Face",
-      "artist": "",
+      "artist": "Lady Gaga",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Someone Like You",
-      "artist": "",
+      "artist": "Adele",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Take Me Hand",
-      "artist": "",
+      "artist": "DAISHI DANCE / Cecile Corbel",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Talking to the Moon",
-      "artist": "",
+      "artist": "Bruno Mars",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "The Show",
-      "artist": "",
+      "artist": "Lenka",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "time machine (feat. aren park)",
-      "artist": "",
+      "artist": "mj apanay / aren park",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Uptown Funk",
-      "artist": "",
+      "artist": "Bruno Mars",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "You Belong With Me",
-      "artist": "",
+      "artist": "Taylor Swift",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "Young And Beautiful",
-      "artist": "",
+      "artist": "Lana Del Rey",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "The other side of paradise",
-      "artist": "",
+      "artist": "Glass Animals",
       "style": "热门必点",
       "language": "欧美"
     },
     {
       "title": "A Thousand Years",
-      "artist": "",
+      "artist": "Christina Perri",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Boom Clap",
-      "artist": "",
+      "artist": "Charli XCX",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Bored",
-      "artist": "",
+      "artist": "Billie Eilish",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Cake By The Ocean",
-      "artist": "",
+      "artist": "DNCE",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Call Me Maybe",
-      "artist": "",
+      "artist": "Carly Rae Jepsen",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "CAN'T STOP THE FEELING!",
-      "artist": "",
+      "artist": "Justin Timberlake",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Cure For Me",
-      "artist": "",
+      "artist": "AURORA",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Espresso",
-      "artist": "",
+      "artist": "Sabrina Carpenter",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Glad You Came",
-      "artist": "",
+      "artist": "The Wanted",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Good Time",
-      "artist": "",
+      "artist": "Owl City / Carly Rae Jepsen",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Havana",
-      "artist": "",
+      "artist": "Camila Cabello / Young Thug",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Heartbeat Song",
-      "artist": "",
+      "artist": "Kelly Clarkson",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Here With You",
-      "artist": "",
+      "artist": "Asher Monroe",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Hotel",
-      "artist": "",
+      "artist": "Claire Rosinkranz",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "I Really Like You",
-      "artist": "",
+      "artist": "Carly Rae Jepsen",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Knock Knock",
-      "artist": "",
+      "artist": "Lenka",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Love Me Like You Do",
-      "artist": "",
+      "artist": "Ellie Goulding",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Lucky",
-      "artist": "",
+      "artist": "Jason Mraz / Colbie Caillat",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Mirrors",
-      "artist": "",
+      "artist": "Justin Timberlake",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "No Place",
-      "artist": "",
+      "artist": "Backstreet Boys",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Price Tag",
-      "artist": "",
+      "artist": "Jessie J / B.o.B",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Santa Tell Me",
-      "artist": "",
+      "artist": "Ariana Grande",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Señorita",
-      "artist": "",
+      "artist": "Shawn Mendes / Camila Cabello",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Shotgun",
-      "artist": "",
+      "artist": "George Ezra",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "The Show",
-      "artist": "",
+      "artist": "Lenka",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "There's Nothing Holdin' Me Back",
-      "artist": "",
+      "artist": "Shawn Mendes",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "TiK ToK",
-      "artist": "",
+      "artist": "Kesha",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Trouble Is A Friend",
-      "artist": "",
+      "artist": "Lenka",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Waka Waka",
-      "artist": "",
+      "artist": "Shakira / Freshlyground",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "What Makes You Beautiful",
-      "artist": "",
+      "artist": "One Direction",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Wonderful U",
-      "artist": "",
+      "artist": "AGA江海迦",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "YOUTH",
-      "artist": "",
+      "artist": "Troye Sivan",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Love you like a love song",
-      "artist": "",
+      "artist": "Selena Gomez & The Scene",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Smile",
-      "artist": "",
+      "artist": "Avril Lavigne",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "Timber",
-      "artist": "",
+      "artist": "Pitbull / Kesha",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "To the sky",
-      "artist": "",
+      "artist": "Owl City",
       "style": "元气",
       "language": "欧美"
     },
     {
       "title": "All For Love",
-      "artist": "",
+      "artist": "Tungevaag / Raaban",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "All The Time",
-      "artist": "",
+      "artist": "Zara Larsson",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Angel in Your Eyes",
-      "artist": "",
+      "artist": "LSD (Labrinth / Sia / Diplo)",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Black Veil Bride",
-      "artist": "",
+      "artist": "赵露思Rosy",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Closer",
-      "artist": "",
+      "artist": "The Chainsmokers / Halsey",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Dance Monkey",
-      "artist": "",
+      "artist": "Tones and I",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "East of Eden",
-      "artist": "",
+      "artist": "Zella Day",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Favorite Color Is Blue",
-      "artist": "",
+      "artist": "Robert DeLong / K.Flay",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Fever Pitch",
-      "artist": "",
+      "artist": "Rainbow Kitten Surprise",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Forgettable",
-      "artist": "",
+      "artist": "Project 46 / Olivia",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "FRIENDS",
-      "artist": "",
+      "artist": "Marshmello / Anne-Marie",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Genius",
-      "artist": "",
+      "artist": "LSD（Labrinth / Sia / Diplo）",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "I Love It",
-      "artist": "",
+      "artist": "Icona Pop / Charli XCX",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "La La La",
-      "artist": "",
+      "artist": "Naughty Boy / Sam Smith",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Mine",
-      "artist": "",
+      "artist": "Bazzi",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Nevada",
-      "artist": "",
+      "artist": "Vicetone / Cozi Zuehlsdorff",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Normal No More",
-      "artist": "",
+      "artist": "TYSM",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "One Last Time",
-      "artist": "",
+      "artist": "Ariana Grande",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Paris",
-      "artist": "",
+      "artist": "The Chainsmokers",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Play",
-      "artist": "",
+      "artist": "K-391 / Alan Walker / Tungevaag / Mangoo",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Rather Be",
-      "artist": "",
+      "artist": "Clean Bandit / Jess Glynne",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "So Far Away",
-      "artist": "",
+      "artist": "Martin Garrix / David Guetta / Jamie Scott / Romy Dya",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Solo Dance",
-      "artist": "",
+      "artist": "Martin Jensen",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Sweet but Psycho",
-      "artist": "",
+      "artist": "Ava Max",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Take Me Hand",
-      "artist": "",
+      "artist": "DAISHI DANCE / Cecile Corbel",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Vagrant",
-      "artist": "",
+      "artist": "Feint / Veela",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Walk Thru Fire",
-      "artist": "",
+      "artist": "Vicetone / Meron Ryan",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Go -blackpink",
-      "artist": "",
+      "artist": "BLACKPINK",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Wrap me in plastic",
-      "artist": "",
+      "artist": "CHROMANCE / Marcus Layton",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "The ocean",
-      "artist": "",
+      "artist": "Mike Perry / Shy Martin",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "lost&found",
-      "artist": "",
+      "artist": "Feint / R7CKY / Skyelle",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Hate Me Japanese Funk",
-      "artist": "",
+      "artist": "DEVIL AARYA / Rxf Siemens",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "You don’t know me",
-      "artist": "",
+      "artist": "Jax Jones / RAYE",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Loves Me Not",
-      "artist": "",
+      "artist": "t.A.T.u.",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Wild hearts never die",
-      "artist": "",
+      "artist": "Linnea Olsson / Daniel Olsén / Jonathan Eng",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Stay",
-      "artist": "",
+      "artist": "The Kid LAROI / Justin Bieber",
       "style": "电音",
       "language": "欧美"
     },
     {
       "title": "Beautiful In White",
-      "artist": "",
+      "artist": "Shane Filan",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Because You Loved Me",
-      "artist": "",
+      "artist": "Céline Dion",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Blue Skies",
-      "artist": "",
+      "artist": "Lenka",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Brother (Acoustic)",
-      "artist": "",
+      "artist": "Kodaline",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Born To Be Alive",
-      "artist": "",
+      "artist": "Bea and her Business",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Die Young",
-      "artist": "",
+      "artist": "Kesha",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Dream It Possible",
-      "artist": "",
+      "artist": "Delacey",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Everything I Need",
-      "artist": "",
+      "artist": "Skylar Grey",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Five Hundred Miles",
-      "artist": "",
+      "artist": "Justin Timberlake / Carey Mulligan / Stark Sands",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Flashlight",
-      "artist": "",
+      "artist": "Jessie J",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Free Loop",
-      "artist": "",
+      "artist": "Daniel Powter",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "golden hour",
-      "artist": "",
+      "artist": "JVKE",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Half The World Away",
-      "artist": "",
+      "artist": "AURORA",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Halo",
-      "artist": "",
+      "artist": "Beyoncé",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Head In The Clouds",
-      "artist": "",
+      "artist": "Hayd",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "I Am You",
-      "artist": "",
+      "artist": "Kim Taylor",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "I Love You 3000",
-      "artist": "",
+      "artist": "Stephanie Poetri",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "I Surrender",
-      "artist": "",
+      "artist": "Céline Dion",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "I Will Always Love You",
-      "artist": "",
+      "artist": "Whitney Houston",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "If I Die Young",
-      "artist": "",
+      "artist": "The Band Perry",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "I'm Me",
-      "artist": "",
+      "artist": "Us The Duo",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Keep Your Head Up Princess",
-      "artist": "",
+      "artist": "Anson Seabra",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Monsters",
-      "artist": "",
+      "artist": "Katie Sky",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "My Love",
-      "artist": "",
+      "artist": "Westlife",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Night Changes",
-      "artist": "",
+      "artist": "One Direction",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Nothing's Going to Change My Love For You",
-      "artist": "",
+      "artist": "George Benson",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Numb Little Bug",
-      "artist": "",
+      "artist": "Em Beihold",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Take Me Home, Country Roads",
-      "artist": "",
+      "artist": "John Denver",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "The Great Escape",
-      "artist": "",
+      "artist": "Patrick Watson",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Try",
-      "artist": "",
+      "artist": "Colbie Caillat",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "Under / Over",
-      "artist": "",
+      "artist": "Gracie Abrams",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "You Raise Me Up",
-      "artist": "",
+      "artist": "Josh Groban",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "247365",
-      "artist": "",
+      "artist": "elijah woods",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "The great escape",
-      "artist": "",
+      "artist": "Patrick Watson",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "past lives",
-      "artist": "",
+      "artist": "BØRNS",
       "style": "治愈",
       "language": "欧美"
     },
     {
       "title": "7 rings",
-      "artist": "",
+      "artist": "Ariana Grande",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "abcdefu",
-      "artist": "",
+      "artist": "GAYLE",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Bang Bang",
-      "artist": "",
+      "artist": "Jessie J / Ariana Grande / Nicki Minaj",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Domino",
-      "artist": "",
+      "artist": "Jessie J",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Fancy",
-      "artist": "",
+      "artist": "Iggy Azalea / Charli XCX",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Flowers",
-      "artist": "",
+      "artist": "Miley Cyrus",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Just Like Fire",
-      "artist": "",
+      "artist": "P!nk",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Salt",
-      "artist": "",
+      "artist": "Ava Max",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Stronger",
-      "artist": "",
+      "artist": "Kelly Clarkson",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Super Psycho Love",
-      "artist": "",
+      "artist": "Simon Curtis",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "thank u, next",
-      "artist": "",
+      "artist": "Ariana Grande",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "We Can't Stop",
-      "artist": "",
+      "artist": "Miley Cyrus",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Lose Control",
-      "artist": "",
+      "artist": "Teddy Swims",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Life Will Change",
-      "artist": "",
+      "artist": "Lyn",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Go -blackpink",
-      "artist": "",
+      "artist": "BLACKPINK",
       "style": "炸场",
       "language": "欧美"
     },
     {
       "title": "Castle",
-      "artist": "",
+      "artist": "Halsey",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Cry Baby",
-      "artist": "",
+      "artist": "Melanie Martinez",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Dollhouse",
-      "artist": "",
+      "artist": "Melanie Martinez",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Green Light",
-      "artist": "",
+      "artist": "Lorde",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Royals",
-      "artist": "",
+      "artist": "Lorde",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Sober",
-      "artist": "",
+      "artist": "Lorde",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Mad Hatter",
-      "artist": "",
+      "artist": "Melanie Martinez",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Yellow Flicker Beat",
-      "artist": "",
+      "artist": "Lorde",
       "style": "暗黑",
       "language": "欧美"
     },
     {
       "title": "Boss Bxxch",
-      "artist": "",
+      "artist": "Doja Cat",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "Plain Jane(DJ)",
-      "artist": "",
+      "artist": "A$AP Ferg",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "Starships",
-      "artist": "",
+      "artist": "Nicki Minaj",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "Super Bass",
-      "artist": "",
+      "artist": "Nicki Minaj",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "Super Freaky Girl",
-      "artist": "",
+      "artist": "Nicki Minaj",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "WOKE UP",
-      "artist": "",
+      "artist": "XG",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "Violet",
-      "artist": "",
+      "artist": "Connor Price / Killa",
       "style": "RAP",
       "language": "欧美"
     },
     {
       "title": "21",
-      "artist": "",
+      "artist": "Gracie Abrams",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Almost Lover",
-      "artist": "",
+      "artist": "A Fine Frenzy",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Because of You",
-      "artist": "",
+      "artist": "Kelly Clarkson",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Bleeding Love",
-      "artist": "",
+      "artist": "Leona Lewis",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Colors (Stripped)",
-      "artist": "",
+      "artist": "Halsey",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Creep",
-      "artist": "",
+      "artist": "Radiohead",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Dancing With Your Ghost",
-      "artist": "",
+      "artist": "Sasha Alex Sloan",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "I Hate U I Love U",
-      "artist": "",
+      "artist": "gnash / Olivia O'Brien",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "I'm Not The Only One",
-      "artist": "",
+      "artist": "Sam Smith",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Just Give Me a Reason",
-      "artist": "",
+      "artist": "P!nk / Nate Ruess",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Just One Last Dance",
-      "artist": "",
+      "artist": "Sarah Connor / Natural",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "No Peace",
-      "artist": "",
+      "artist": "Sam Smith / YEBBA",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Peter Pan Was Right",
-      "artist": "",
+      "artist": "Anson Seabra",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Real Friends",
-      "artist": "",
+      "artist": "Camila Cabello",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Say Something",
-      "artist": "",
+      "artist": "A Great Big World / Christina Aguilera",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "So Sick",
-      "artist": "",
+      "artist": "Ne-Yo",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Someone You Loved",
-      "artist": "",
+      "artist": "Lewis Capaldi",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Stay With Me",
-      "artist": "",
+      "artist": "Sam Smith",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Whataya Want from Me",
-      "artist": "",
+      "artist": "Adam Lambert",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Let me down slowly",
-      "artist": "",
+      "artist": "Alec Benjamin",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Love is gone",
-      "artist": "",
+      "artist": "SLANDER / Dylan Matthew",
       "style": "伤感",
       "language": "欧美"
     },
     {
       "title": "Drag Me Down",
-      "artist": "",
+      "artist": "One Direction",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "I Just Wanna Run",
-      "artist": "",
+      "artist": "The Downtown Fiction",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "I WANNA BE YOUR SLAVE",
-      "artist": "",
+      "artist": "Måneskin",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "Immortals",
-      "artist": "",
+      "artist": "Fall Out Boy",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "My Songs Know What You Did in the Dark",
-      "artist": "",
+      "artist": "Fall Out Boy",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "Sold Out",
-      "artist": "",
+      "artist": "Hawk Nelson",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "Take Me to Church",
-      "artist": "",
+      "artist": "Hozier",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "The Other Side Of Paradise",
-      "artist": "",
+      "artist": "Glass Animals",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "The Phoenix",
-      "artist": "",
+      "artist": "Fall Out Boy",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "The other side of paradise",
-      "artist": "",
+      "artist": "Glass Animals",
       "style": "摇滚",
       "language": "欧美"
     },
     {
       "title": "Bitty Boppy Betty",
-      "artist": "",
+      "artist": "Pink Martini",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Can't Take My Eyes Off You",
-      "artist": "",
+      "artist": "Frankie Valli",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "City Of Stars",
-      "artist": "",
+      "artist": "Ryan Gosling / Emma Stone",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Don't Know Why",
-      "artist": "",
+      "artist": "Norah Jones",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Fly Me To The Moon",
-      "artist": "",
+      "artist": "Frank Sinatra",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Lady Weeping At The Crossroads",
-      "artist": "",
+      "artist": "Carla Bruni",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Lemon Tree",
-      "artist": "",
+      "artist": "Fool's Garden",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Moon River",
-      "artist": "",
+      "artist": "Audrey Hepburn",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Nothing’s New",
-      "artist": "",
+      "artist": "Rio Romeo",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Paris",
-      "artist": "",
+      "artist": "Caro Emerald",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Stupid Cupid",
-      "artist": "",
+      "artist": "Connie Francis",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "What A Wonderful World",
-      "artist": "",
+      "artist": "Louis Armstrong",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "You Belong To Me",
-      "artist": "",
+      "artist": "Jo Stafford",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Another day of sun",
-      "artist": "",
+      "artist": "La La Land Cast",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Just the two of us",
-      "artist": "",
+      "artist": "Grover Washington, Jr. / Bill Withers",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "We Two Too Shy",
-      "artist": "",
+      "artist": "ARAI",
       "style": "复古",
       "language": "欧美"
     },
     {
       "title": "Eyes On Me",
-      "artist": "",
+      "artist": "王菲",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "How Far I'll Go",
-      "artist": "",
+      "artist": "Auliʻi Cravalho",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "I Really Want to Stay at Your House",
-      "artist": "",
+      "artist": "Rosa Walton / Hallie Coggins",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "I See the Light",
-      "artist": "",
+      "artist": "Mandy Moore / Zachary Levi",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "I Will Return",
-      "artist": "",
+      "artist": "Skylar Grey",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Into the Unknown",
-      "artist": "",
+      "artist": "Idina Menzel / AURORA",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Let You Down",
-      "artist": "",
+      "artist": "Dawid Podsiadło",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "My Heart Will Go On",
-      "artist": "",
+      "artist": "Céline Dion",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Scarborough Fair",
-      "artist": "",
+      "artist": "Simon & Garfunkel",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Speechless",
-      "artist": "",
+      "artist": "Naomi Scott",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Try Everything",
-      "artist": "",
+      "artist": "Shakira",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "When Will My Life Begin",
-      "artist": "",
+      "artist": "Mandy Moore",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Zoo",
-      "artist": "",
+      "artist": "Shakira",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Another day of sun",
-      "artist": "",
+      "artist": "La La Land Cast",
       "style": "影视",
       "language": "欧美"
     },
     {
       "title": "Let go - 蜘蛛侠",
-      "artist": "",
+      "artist": "Beau Young Prince",
       "style": "影视",
       "language": "欧美"
     },
@@ -4759,8 +4759,8 @@ window.TIYA_DATA = {
         "title": "Running in the Dark"
       },
       {
-        "requester": "",
-        "title": "云烟 - Wild hearts never die"
+        "requester": "云烟",
+        "title": "Wild hearts never die"
       },
       {
         "requester": "土豆",
@@ -4779,8 +4779,8 @@ window.TIYA_DATA = {
         "title": "Got You"
       },
       {
-        "requester": "",
-        "title": "旋转风暴 - 羚羊"
+        "requester": "羚羊",
+        "title": "旋转风暴"
       }
     ],
     "queued": [
@@ -4933,60 +4933,60 @@ window.TIYA_DATA = {
         "title": "Lose Yourself(RAP)"
       },
       {
-        "requester": "",
-        "title": "Trust me - 小萤"
+        "requester": "小萤",
+        "title": "Trust me"
       },
       {
-        "requester": "",
-        "title": "小小奇迹 - 红枫"
+        "requester": "小小奇迹",
+        "title": "红枫"
       },
       {
-        "requester": "",
-        "title": "思 - NO.1"
+        "requester": "思",
+        "title": "NO.1"
       },
       {
-        "requester": "",
-        "title": "云烟 - speed of light"
+        "requester": "云烟",
+        "title": "speed of light"
       },
       {
-        "requester": "",
-        "title": "ode to the west wind yolanda学歌，换一下存歌"
+        "requester": "yolanda",
+        "title": "ode to the west wind"
       },
       {
-        "requester": "",
-        "title": "无尽的施工日 白昼 铃可喵 学歌"
+        "requester": "铃可喵",
+        "title": "无尽的施工日：白昼"
       },
       {
-        "requester": "",
-        "title": "瞬息甜味 sugar time 云烟 学歌"
+        "requester": "云烟",
+        "title": "瞬息甜味（sugar time）"
       },
       {
-        "requester": "",
-        "title": "vincent never enough 学歌"
+        "requester": "vincent",
+        "title": "never enough"
       },
       {
-        "requester": "",
-        "title": "辞朔 战争世界姚贝娜 学歌"
+        "requester": "辞朔",
+        "title": "战争世界"
       },
       {
-        "requester": "",
-        "title": "This is living - 别吃谷"
+        "requester": "别吃谷",
+        "title": "This is living"
       },
       {
-        "requester": "",
-        "title": "唯有追赶风的方向 - 沐沐"
+        "requester": "沐沐",
+        "title": "唯有追赶风的方向"
       },
       {
-        "requester": "",
-        "title": "明知故犯 - 云烟"
+        "requester": "云烟",
+        "title": "明知故犯"
       },
       {
-        "requester": "",
-        "title": "拂晓 - 羚羊"
+        "requester": "羚羊",
+        "title": "拂晓"
       },
       {
-        "requester": "",
-        "title": "尘外客 - 终焉"
+        "requester": "终焉",
+        "title": "尘外客"
       }
     ]
   }
