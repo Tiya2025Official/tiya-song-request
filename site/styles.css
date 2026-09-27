@@ -11,6 +11,8 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display:none !important; }
+.list-end { text-align:center; margin:24px auto 0; color:var(--muted); font-size:.9rem; }
 html { scroll-behavior: smooth; }
 body {
   margin: 0;

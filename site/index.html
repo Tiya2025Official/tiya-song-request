@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#7167c9">
-  <meta name="description" content="缇娅 Tiya 的点歌台：搜索歌名、歌手或风格，一键复制点歌。">
+  <meta name="description" content="缇娅 Tiya 的点歌台：搜索歌名、歌手，一键复制点歌。">
   <title>缇娅的点歌台</title>
   <link rel="icon" href="assets/avatar.jpg">
   <link rel="stylesheet" href="styles.css">
@@ -28,10 +28,10 @@
         <div class="hero-copy">
           <p class="eyebrow">NOW SINGING FOR YOU</p>
           <h1 id="songs-title">今天想听缇娅唱什么？</h1>
-          <p>搜歌名、歌手或风格，找到后点一下就能复制点歌。</p>
+          <p>搜歌名、歌手，找到后点一下就能复制点歌。</p>
           <div class="search-wrap">
             <span class="search-icon" aria-hidden="true">⌕</span>
-            <input id="search" type="search" placeholder="搜索歌名、歌手、风格…" autocomplete="off">
+            <input id="search" type="search" placeholder="搜索歌名、歌手…" autocomplete="off">
             <button id="clear-search" class="clear-btn" aria-label="清空搜索" hidden>×</button>
           </div>
         </div>
@@ -53,6 +53,7 @@
         <span>☁</span><h2>暂时没找到这首歌</h2><p>换个关键词，或试试其他风格吧。</p>
       </div>
       <button id="load-more" class="load-more" hidden>再看一些</button>
+      <p id="list-end" class="list-end" role="status" hidden>到底啦</p>
     </section>
 
     <section id="queue-view" class="view" aria-labelledby="queue-title" hidden>

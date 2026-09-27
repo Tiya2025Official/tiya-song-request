@@ -1,12 +1,12 @@
 (() => {
   const data = window.TIYA_DATA;
-  data.songs = data.songs.map(song => ({ ...song, style: song.style === "RAP" ? "说唱" : song.style }));
+  data.songs = data.songs.map(song => ({ ...song, language: song.language === "欧美" ? "英文" : song.language, style: song.style === "RAP" ? "说唱" : song.style }));
   const state = { query: "", language: "全部", style: "全部", shown: 36, queueStatus: "queued" };
   const $ = (selector) => document.querySelector(selector);
   const $$ = (selector) => [...document.querySelectorAll(selector)];
   const normalize = (value) => String(value || "").toLocaleLowerCase().replace(/[\s·'’“”"，,。.！!？?（）()\-—_]/g, "");
 
-  const languages = ["全部", "欧美", "中文", "小语种"];
+  const languages = ["全部", "英文", "中文", "小语种"];
   const preferredStyles = ["热门必点", "元气", "治愈", "炸场", "伤感", "摇滚", "古风", "民谣", "说唱", "电音", "暗黑", "复古", "影视", "二游", "K-POP", "J-POP", "歌手专属", "经典", "流行"];
   function renderStyles() {
     const available = new Set(data.songs.filter(song => state.language === "全部" || song.language === state.language).map(song => song.style));
@@ -66,6 +66,7 @@
     $("#result-count").textContent = filtered.length;
     $("#empty-state").hidden = filtered.length !== 0;
     $("#load-more").hidden = filtered.length <= state.shown;
+    $("#list-end").hidden = filtered.length === 0 || filtered.length > state.shown;
     $("#reset-filters").hidden = !state.query && state.language === "全部" && state.style === "全部";
   }
 
