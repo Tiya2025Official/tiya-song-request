@@ -1,14 +1,18 @@
 (() => {
   const data = window.TIYA_DATA;
+  data.songs = data.songs.map(song => ({ ...song, style: song.style === "RAP" ? "说唱" : song.style }));
   const state = { query: "", language: "全部", style: "全部", shown: 36, queueStatus: "queued" };
   const $ = (selector) => document.querySelector(selector);
   const $$ = (selector) => [...document.querySelectorAll(selector)];
   const normalize = (value) => String(value || "").toLocaleLowerCase().replace(/[\s·'’“”"，,。.！!？?（）()\-—_]/g, "");
 
-  const languages = ["全部", ...new Set(data.songs.map(song => song.language))];
+  const languages = ["全部", "欧美", "中文", "小语种"];
   const preferredStyles = ["热门必点", "元气", "治愈", "炸场", "伤感", "摇滚", "古风", "民谣", "说唱", "电音", "暗黑", "复古", "影视", "二游", "K-POP", "J-POP", "歌手专属", "经典", "流行"];
-  const available = new Set(data.songs.map(song => song.style));
-  const styles = ["全部", ...preferredStyles.filter(style => available.has(style)), ...[...available].filter(style => !preferredStyles.includes(style))];
+  function renderStyles() {
+    const available = new Set(data.songs.filter(song => state.language === "全部" || song.language === state.language).map(song => song.style));
+    const styles = ["全部", ...preferredStyles.filter(style => available.has(style)), ...[...available].filter(style => !preferredStyles.includes(style))];
+    $("#style-filters").replaceChildren(...styles.map(style => makePill(style, "style", style === state.style)));
+  }
 
   function makePill(label, type, active) {
     const button = document.createElement("button");
@@ -19,7 +23,7 @@
   }
 
   languages.forEach(language => $("#language-filters").appendChild(makePill(language, "language", language === state.language)));
-  styles.forEach(style => $("#style-filters").appendChild(makePill(style, "style", style === state.style)));
+  renderStyles();
 
   function matches(song) {
     const term = normalize(state.query);
@@ -67,6 +71,10 @@
 
   function setFilter(type, value) {
     state[type] = value; state.shown = 36;
+    if (type === "language") {
+      state.style = "全部";
+      renderStyles();
+    }
     $$(`[data-${type}]`).forEach(button => button.classList.toggle("active", button.dataset[type] === value));
     renderSongs();
   }

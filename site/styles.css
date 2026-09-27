@@ -76,8 +76,7 @@ h1 { margin:0; font-size:clamp(2rem,5vw,3.5rem); line-height:1.12; letter-spacin
 .pill, .surprise-btn { border:1px solid var(--line); background:rgba(255,255,255,.8); color:var(--muted); padding:10px 17px; border-radius:999px; font-weight:700; box-shadow:0 4px 14px rgba(74,63,138,.06); }
 .pill:hover, .pill.active { color:var(--purple-dark); border-color:rgba(113,103,201,.4); background:#fff; }
 .pill.active { box-shadow:inset 0 0 0 1px rgba(113,103,201,.2), 0 5px 16px rgba(74,63,138,.1); }
-.style-row { flex-wrap:nowrap; overflow:auto; padding:4px 2px 12px; scrollbar-width:none; }
-.style-row::-webkit-scrollbar { display:none; }
+.style-row { flex-wrap:wrap; padding:4px 2px 12px; }
 .style-row .pill { flex:0 0 auto; padding:8px 14px; font-size:.88rem; }
 .surprise-btn { flex:0 0 auto; color:white; border:0; background:linear-gradient(135deg,var(--pink),#e85f9c); }
 .result-head { display:flex; justify-content:space-between; align-items:center; margin:18px 2px 12px; color:var(--muted); }
