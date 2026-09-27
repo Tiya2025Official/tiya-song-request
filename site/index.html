@@ -39,10 +39,20 @@
       </div>
 
       <div class="filters" aria-label="歌单筛选">
-        <div class="filter-group" id="language-filters"></div>
+        <div class="filter-line" role="group" aria-labelledby="language-label">
+          <span class="filter-label" id="language-label">语言</span>
+          <div class="filter-group" id="language-filters"></div>
+        </div>
         <button id="random-song" class="surprise-btn">✦ 随机来一首</button>
       </div>
-      <div class="style-row" id="style-filters" aria-label="风格筛选"></div>
+      <div class="filter-line secondary-filters" role="group" aria-labelledby="style-label">
+        <span class="filter-label" id="style-label">风格</span>
+        <div class="style-row" id="style-filters"></div>
+      </div>
+      <div class="filter-line secondary-filters" id="artist-row" role="group" aria-labelledby="artist-label" hidden>
+        <span class="filter-label" id="artist-label">歌手</span>
+        <div class="style-row" id="artist-filters"></div>
+      </div>
 
       <div class="result-head">
         <div><strong id="result-count">0</strong><span> 首可以点</span></div>

@@ -1,7 +1,7 @@
 (() => {
   const data = window.TIYA_DATA;
   data.songs = data.songs.map(song => ({ ...song, language: song.language === "欧美" ? "英文" : song.language, style: song.style === "RAP" ? "说唱" : song.style }));
-  const state = { query: "", language: "全部", style: "全部", shown: 36, queueStatus: "queued" };
+  const state = { query: "", language: "全部", style: "全部", artist: "全部", shown: 36, queueStatus: "queued" };
   const $ = (selector) => document.querySelector(selector);
   const $$ = (selector) => [...document.querySelectorAll(selector)];
   const normalize = (value) => String(value || "").toLocaleLowerCase().replace(/[\s·'’“”"，,。.！!？?（）()\-—_]/g, "");
@@ -14,6 +14,12 @@
     $("#style-filters").replaceChildren(...styles.map(style => makePill(style, "style", style === state.style)));
   }
 
+  function renderArtists() {
+    $("#artist-row").hidden = state.style !== "歌手专属";
+    const artists = [...new Set(data.songs.filter(song => song.style === "歌手专属" && (state.language === "全部" || song.language === state.language)).map(song => song.artist).filter(Boolean))];
+    $("#artist-filters").replaceChildren(...["全部", ...artists].map(artist => makePill(artist, "artist", artist === state.artist)));
+  }
+
   function makePill(label, type, active) {
     const button = document.createElement("button");
     button.className = `pill${active ? " active" : ""}`;
@@ -24,13 +30,15 @@
 
   languages.forEach(language => $("#language-filters").appendChild(makePill(language, "language", language === state.language)));
   renderStyles();
+  renderArtists();
 
   function matches(song) {
     const term = normalize(state.query);
     const haystack = normalize([song.title, song.artist, song.style, song.language].join(" "));
     return (!term || haystack.includes(term)) &&
       (state.language === "全部" || song.language === state.language) &&
-      (state.style === "全部" || song.style === state.style);
+      (state.style === "全部" || song.style === state.style) &&
+      (state.artist === "全部" || song.artist === state.artist);
   }
 
   function songMeta(song) {
@@ -76,12 +84,17 @@
       state.style = "全部";
       renderStyles();
     }
+    if (type === "language" || type === "style") {
+      state.artist = "全部";
+      renderArtists();
+    }
     $$(`[data-${type}]`).forEach(button => button.classList.toggle("active", button.dataset[type] === value));
     renderSongs();
   }
 
   $("#language-filters").addEventListener("click", event => event.target.dataset.language && setFilter("language", event.target.dataset.language));
   $("#style-filters").addEventListener("click", event => event.target.dataset.style && setFilter("style", event.target.dataset.style));
+  $("#artist-filters").addEventListener("click", event => event.target.dataset.artist && setFilter("artist", event.target.dataset.artist));
   $("#search").addEventListener("input", event => { state.query = event.target.value; state.shown = 36; $("#clear-search").hidden = !state.query; renderSongs(); });
   $("#clear-search").addEventListener("click", () => { $("#search").value = ""; state.query = ""; $("#clear-search").hidden = true; renderSongs(); $("#search").focus(); });
   $("#reset-filters").addEventListener("click", () => { $("#search").value = ""; state.query = ""; $("#clear-search").hidden = true; setFilter("language", "全部"); setFilter("style", "全部"); });
